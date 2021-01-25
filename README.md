@@ -14,4 +14,4 @@ Tools Used:
 Pandas, matplotlib, BeautifulSoup, lumpy, statsmodels, seaborn, sklearn.linear_model, sklearn.model_selection, sklearn.preprocessing, sklearn.metrics
 
 Possible impacts of project:
-Can show if a player is being over/underpaid compared to his stats from certain years. Resource for NBA teams 
+Can show if a player is being over/underpaid compared to his stats from certain years. Resource for NBA teams to competitively pay their players and price players they intend to sign.
